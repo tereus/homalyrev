@@ -1,0 +1,23 @@
+[
+"Helszín": "Homályrév",
+"Hírnév": 0, //következő esemény: +10, -10
+"Városfejlettség": "1 (1)",
+"Általános eredmények": ["városvezetés: katonaság"],
+"Csapat eredmények": ["első lépések"],
+"Ősi technolgia eredméynek száma": 0, //következő esemény: 5
+// további érdekes eredmények: A gyík parancsa, A gyík kincse
+"Elérhető küldetések": [3, 4, 71],
+"Kész küldetések": [1, 2],
+"Elérhető városesemények": ["1-10", "12-30"],
+"Kijátszott és alulra tett városesemények": [03],
+"Elérhető úti események": ["1-18", "20-30"],
+"Kijátszott és alulra tett úti események": [14],
+"Piacon elérhető tárgyak": ["001-014", "094"],
+"Kihűzott tervrajzok": ["094"],
+"Adományok a Vén Tölgy Szentélyének": 0, //következő esemény: 100
+"Kinyitott kincsesládák": [7],
+"Elérhető kasztok": ["Behemót", "Ezermester", "Mágiaszövő", "Kalandor", "Szilánkszív", "Elmetolvaj", "Romboló (Oroszlánfalka)", "Fejszés (Oroszlánfalka)", "Őrző (Oroszlánfalka)", "Vörös gárdista (Oroszlánfalka)"],
+"Aktv tagok": ["Altair (Behemót)", "Dior (Mágiaszövő)", "Black Betty (Kalandor)", "Szilkaarc (Sziklaszív)", "Rudi (Elmetolvaj)"],
+"Nyugdjayott tagok": [], //elsőnél esemény
+"jegyzetek": ""
+]
