@@ -1,4 +1,4 @@
-[
+{
 "Helszín": "Kárhozottak kriptája (4)",
 "Hírnév": 0, //következő esemény: +10, -10
 "Városfejlettség": "1 (1)",
@@ -20,4 +20,4 @@
 "Aktv tagok": ["Altair (Behemót)", "Dior (Mágiaszövő)", "Black Betty (Kalandor)", "Szilkaarc (Sziklaszív)", "Rudi (Elmetolvaj)"],
 "Nyugdjayott tagok": [], //elsőnél esemény
 "jegyzetek": "Sziklaarc szintlépés"
-]
+}
