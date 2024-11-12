@@ -1,11 +1,10 @@
 {
-"Helszín": "Homályrév",
-"Hírnév": 0, //következő esemény: +10, -10
+"Helyszín": "Homályrév",
+"Hírnév": 0,
 "Városfejlettség": "1 (1)",
 "Általános eredmények": ["városvezetés: katonaság"],
 "Csapat eredmények": ["első lépések"],
-"Ősi technolgia eredmények száma": 0, //következő esemény: 5
-// további érdekes eredmények: A gyík parancsa, A gyík kincse
+"Ősi technolgia eredmények száma": 0,
 "Elérhető küldetések": ["3+!", "6", "10+!", "14", "19-"],
 "Kész küldetések": [1, 2, 4, 5, 71],
 "Elérhető városesemények": ["1-10", "13-29"],
@@ -14,11 +13,12 @@
 "Kijátszott és alulra tett úti események": [14, 15, 25],
 "Piacon elérhető tárgyak": ["001-014", "094", "123"],
 "Kihűzott tervrajzok": ["094"],
-"Adományok a Vén Tölgy Szentélyének": 10, //következő esemény: 100
+"Adományok a Vén Tölgy Szentélyének": 10,
 "Kinyitott kincsesládák": [7, 28, 38],
 "Elérhető kasztok": ["Behemót", "Ezermester", "Mágiaszövő", "Kalandor", "Szilánkszív", "Elmetolvaj", "Romboló (Oroszlánfalka)", "Fejszés (Oroszlánfalka)", "Őrző (Oroszlánfalka)", "Vörös gárdista (Oroszlánfalka)"],
 "Aktv tagok": ["Altair (Behemót)", "Dior (Mágiaszövő)", "Black Betty (Kalandor)", "Szilkaarc (Sziklaszív)", "Rudi (Elmetolvaj)"],
-"Nyugdjazott tagok": [], //elsőnél esemény
+"Nyugdjazott tagok": [],
+"Események, amire figyelni kell: ": "hírnév +10 vagy -10; ősi technológia eredményből 5 db, A gyík parancsa eredmény és a gyík kincse eredmény; 100 arany a vén tölgy templomának; első nyugdíj", 
 "Emlékeztető": "A nyítva maradt portál kérdését jobbnak láttuk Homályrévben tisztázni némi ital mellett. Ha már úgyis visszamentünk a vároba szétnéztünk a piacon, ahol egy piteevő versenbyen is megmérettük megunkat, amit természetesen meg is nyertünk. (BB váltig állította, hogy ehhez annak is köze van, hogy hagyott némi aranyat a közeli templomban...) Mivel a portál témájában nem sikerült dűlőre jutnunk, elindultunk Sziklaarc által talált könyvhöz mellékelt térképen jelölt helyszínre, amit ő már rég meg akart nézuni. Útközben összeakadtunk pár savköpő gyíkkal, kölcsönösen vacsorának néztük egymást, sajna mi húztuk a rövidebbet... Mint kiderült uticélunk az ő nyugvóhelyük volt. Az út során tapasztaltak után igyekeztünk nem felébresztve őket összeszedni mindent amit a szeles fennsíkon találtunk és iszkoltunk is vissza Homályrévbe. A kaland nem volt eredménytelen, a talált mókgyökerekből a könyvben leírt recept alapján egy ezermester elkészített két nagy erőitalt nekünk.",
 "jegyzetek": ""
 }
