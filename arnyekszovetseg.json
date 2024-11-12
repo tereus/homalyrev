@@ -1,24 +1,24 @@
 {
-"Helszín": "Romos kripta (5)",
-"Hírnév": -1, //következő esemény: +10, -10
+"Helszín": "Homályrév",
+"Hírnév": 0, //következő esemény: +10, -10
 "Városfejlettség": "1 (1)",
 "Általános eredmények": ["városvezetés: katonaság"],
 "Csapat eredmények": ["első lépések"],
 "Ősi technolgia eredmények száma": 0, //következő esemény: 5
 // további érdekes eredmények: A gyík parancsa, A gyík kincse
-"Elérhető küldetések": ["3+!", "6", "10+!", "14", "19-", "71"],
-"Kész küldetések": [1, 2, 4, 5],
-"Elérhető városesemények": ["1-10", "12-29"],
+"Elérhető küldetések": ["3+!", "6", "10+!", "14", "19-"],
+"Kész küldetések": [1, 2, 4, 5, 71],
+"Elérhető városesemények": ["1-10", "13-29"],
 "Kijátszott és alulra tett városesemények": [3],
 "Elérhető úti események": ["1-6", "8-18", "20-30"],
-"Kijátszott és alulra tett úti események": [14, 25],
+"Kijátszott és alulra tett úti események": [14, 15, 25],
 "Piacon elérhető tárgyak": ["001-014", "094", "123"],
 "Kihűzott tervrajzok": ["094"],
-"Adományok a Vén Tölgy Szentélyének": 0, //következő esemény: 100
+"Adományok a Vén Tölgy Szentélyének": 10, //következő esemény: 100
 "Kinyitott kincsesládák": [7, 28, 38],
 "Elérhető kasztok": ["Behemót", "Ezermester", "Mágiaszövő", "Kalandor", "Szilánkszív", "Elmetolvaj", "Romboló (Oroszlánfalka)", "Fejszés (Oroszlánfalka)", "Őrző (Oroszlánfalka)", "Vörös gárdista (Oroszlánfalka)"],
 "Aktv tagok": ["Altair (Behemót)", "Dior (Mágiaszövő)", "Black Betty (Kalandor)", "Szilkaarc (Sziklaszív)", "Rudi (Elmetolvaj)"],
 "Nyugdjazott tagok": [], //elsőnél esemény
-"Emlékeztető": "A kárhozottak kriptájából visszatértünk Homályrévbe. Az árnyékpiacon szétnéve egy patkányfajzat megpróbált meglopni minket. Egy lövéssel leterítettük, így minden pénzünk megmaradt, de akciónk láttán a város népe nem tűnt boldognak, vélhetően nem látták át a helyzetet és ők nézhettek minket gyilkos tolvajoknak... Eztuán eldönöttük, hogy a kriptában talált térképek nyomán felkeressük a szekta által használt másik kriptát. Annyira belejöttünk a szektások ításába, hogy már út közben is sikerült elkapni néhány kántáló őrültet. Ettől a kis testmozgástól megerősödve és felbátorodva simán kipocultuk a romos kriptát az ott talált fanatikusoktól, csontvázaktól és az őrültek által a világunkra szabadított démoktól. A portál viszont amin ezek átjöttek nem zárult be... Vajon átmenjünk rajta, vagy kérjünk segíséget a bezáráshoz?",
+"Emlékeztető": "A nyítva maradt portál kérdését jobbnak láttuk Homályrévben tisztázni némi ital mellett. Ha már úgyis visszamentünk a vároba szétnéztünk a piacon, ahol egy piteevő versenbyen is megmérettük megunkat, amit természetesen meg is nyertünk. (BB váltig állította, hogy ehhez annak is köze van, hogy hagyott némi aranyat a közeli templomban...) Mivel a portál témájában nem sikerült dűlőre jutnunk, elindultunk Sziklaarc által talált könyvhöz mellékelt térképen jelölt helyszínre, amit ő már rég meg akart nézuni. Útközben összeakadtunk pár savköpő gyíkkal, kölcsönösen vacsorának néztük egymást, sajna mi húztuk a rövidebbet... Mint kiderült uticélunk az ő nyugvóhelyük volt. Az út során tapasztaltak után igyekeztünk nem felébresztve őket összeszedni mindent amit a szeles fennsíkon találtunk és iszkoltunk is vissza Homályrévbe. A kaland nem volt eredménytelen, a talált mókgyökerekből a könyvben leírt recept alapján egy ezermester elkészített két nagy erőitalt nekünk.",
 "jegyzetek": ""
 }
