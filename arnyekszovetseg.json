@@ -5,8 +5,8 @@
 "Általános eredmények": ["városvezetés: katonaság", "A kereskedő elmenekül", "A síkkapu bezárva", "A varázsgömb hatalma"],
 "Csapat eredmények": ["Első lépések, Jakserah tervei", "Kincses térkép", "A démon parancsa", "A fészken át"],
 "Ősi technolgia eredmények száma": 0,
-"Elérhető küldetések": [6, 7, 13, 19, 22, 66, 95],
-"Kész küldetések": [1, 2, 3, 4, 5, 8, 10, 14, 21, 71, 93, 94],
+"Elérhető küldetések": [6, 7, 13, 19, 22, 66],
+"Kész küldetések": [1, 2, 3, 4, 5, 8, 10, 14, 21, 71, 93, 94, 95],
 "Előfeltétel miatt már nem teljesíthető küldetések": [9],
 "Elérhető városesemények": ["1-7", "9-10", "13-15", "17-29"],
 "Kijátszott és alulra tett városesemények": [18],
@@ -20,6 +20,6 @@
 "Aktv tagok": ["Altair (Behemót)", "Dior (Mágiaszövő)", "Black Betty (Kalandor)", "Szilkaarc (Sziklaszív)", "Rudi (Elmetolvaj)"],
 "Nyugdjazott tagok": [],
 "Események, amire figyelni kell: ": "hírnév +10 vagy -10; ősi technológia eredményből 5 db; A gyík parancsa eredmény és a gyík kincse eredmény; 50 arany a vén tölgy templomának; első nyugdíj", 
-"Emlékeztető": "Altair nagyon beleélte magát a patkányírtás lehetőségébe, így elindultunk a patkányfészekbe. Felmerült ugyan, hogy csak elcsenjük az erekléyt és kincseket, de a patkányszerzetek jól őrizték a vermüket, így erre esélyünk sem volt. Rajtaütés lett belőle, levágtuk az összes patkányt és állataikat (medvék,  vérebek) amelyelyek utunkat állták. Találtunk egy törött üvegcsében fura sötét gomolygó valamit (ami ismerősnek tűnt), ezt magunkhoz vettük, és ezzel együtt indultunk a kincseknek is utánanézni.",
-"jegyzetek": "Altair szintlépésre új kártya választás! Térképen szentély adomány jelölése (+20)."
+"Emlékeztető": "Kiderült hogy a fura sötét gomolygó valami az üvegben csapda. A patkányfészek közepén lévő verem nem a kincsekhez vezetett, hanem mélyen a pokolba zuhantunk, ahol egy arénában kellett megküzdenünk démonokkal, mélységi rémekkel és egy savvas tűzvarázslóval, akik ily módon akartak bosszút állni uruk haláláért. Nem sikerült nekik, levertük a tűzvarázslót és utána a patkányfészekben tértünk magunkhoz a mágus fejével a kezünkben. Mivel a csata közben is hevesen szórta ránk az átkokat elneveztük a gyűlölet koponyájának, és bedobtuk a felszereléseink közé, hátha ellenségeink megátkozására is hasznos lesz a további kalandjainkban.",
+"jegyzetek": "Sziklaarc szintlépés! Gyűlölet koponyája kihez jusson. 95-ös küldi pipálása térképen"
 }
