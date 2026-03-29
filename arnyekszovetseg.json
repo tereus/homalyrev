@@ -1,14 +1,15 @@
 {
-"Helyszín": "Elemei erők temploma",
-"Hírnév": 3,
-"Városfejlettség": "2 (2)",
+"Helyszín": "Elfeledett kripta",
+"Hírnév": 4,
+"Piaci ár módosító": -1,
+"Városfejlettség": "2 (4)",
 "Általános eredmények": ["városvezetés: katonaság", "A kereskedő elmenekül", "A síkkapu bezárva", "A varázsgömb hatalma", "Az ereklye megszerezve"],
-"Csapat eredmények": ["Első lépések, Jakserah tervei", "Kincses térkép", "A démon parancsa", "A fészken át"],
+"Csapat eredmények": ["Első lépések, Jakserah tervei", "Kincses térkép", "A démon parancsa", "A fészken át", "A kőmorzsoló füstölője"],
 "Ősi technolgia eredmények száma": 0,
-"Elérhető küldetések": [6, 7, 13, 19, 31, 66],
-"Kész küldetések": [1, 2, 3, 4, 5, 8, 10, 14, 21, 22, 71, 93, 94, 95],
+"Elérhető küldetések": [6, 7, 13, 27, 31, 66],
+"Kész küldetések": [1, 2, 3, 4, 5, 8, 10, 14, 19, 21, 22, 71, 93, 94, 95],
 "Előfeltétel miatt már nem teljesíthető küldetések": [9, 35, 36],
-"Elérhető városesemények": ["1-5", "7", "9-10", "13-15", "17-29", "73"],
+"Elérhető városesemények": ["1-5", "7", "9-10", "13-15", "17-22, "24-29", "73"],
 "Kijátszott és alulra tett városesemények": [],
 "Elérhető úti események": ["1-6", "8-10", "12-16", "20-21", "23-29"],
 "Kijátszott és alulra tett úti események": [14, 15, 25, 3],
@@ -20,6 +21,6 @@
 "Aktv tagok": ["Altair (Behemót)", "Dior (Mágiaszövő)", "Black Betty (Kalandor)", "Szilkaarc (Sziklaszív)", "Rudi (Elmetolvaj)"],
 "Nyugdjazott tagok": [],
 "Események, amire figyelni kell: ": "hírnév +10 vagy -10; ősi technológia eredményből 5 db; A gyík parancsa eredmény és a gyík kincse eredmény; 50 arany a vén tölgy templomának; első nyugdíj", 
-"Emlékeztető": "A savvas tűzvarázslóval vívott küzdelmünk eszünkbe juttatta a relikvia megkeresését amivel még a démon bízott meg bennünket. Úgyhogy miután kipihentünk magunkat és segítettünk egy patkányszerzet ostrom leverésében Homályrév őreinek, el is indultunk az elemi erők templomába. Az út során túléltünk egy sziklaomlást (még egy különös kristályt is találtunk a barlangban amibe behúzódtunk). A templom sajnos nem volt üres, fanatikusok lepték már el mire odaértünk, sőt el is kezdtek valamilyen szertartást a relikvia körül. Nem volt más hátra le kellett őket verni, ill hogy a relikviához hozzáférjünk a négy elemhez tartozó oltárt és az őket védő elemi démonokat is el kellett pusztítanunk. A végén csak el tudtuk venni a relikviát ami érezhetően meg volt átkozva. El is döntöttük, hogy a varázslónál próbálunk vele szerencsét.",
-"jegyzetek": ""
+"Emlékeztető": "Miután visszatértünk az átkozott relikviával rögtön a varázslóhoz indultunk. Útközben azért csak elkaputnk egy zöldségtolvajt akit leadtunk az őröknek. A varázsló javaslatára előbb inkább a síkkapuval kezdtünk el foglalkozni, mert bár a démonok urát megöltük a kapu még veszélyes lehet. A relikvia ráérhet utána. A kapu bezáráshoz Zivatarnak egy elemi füstölőre volt szüksége (amit amúgy is szerezett volna már megszerezni). Ehhez egy néhai hatalmas elmentalista kriptájába kellett mennünk. útközben majdnem ránk ütött egy egész farkas horda, de szerencsére időben elértünk a csalánosba, ahova nem jöttek utánunk. A kriptában találtunk pár fanatikust (ezek mindenhol ott vannak?) és az általuk idézett csontvázakat, élőholtakat és kísérteteket. Miután a kripta oltárához kísértük Zivatart, hamar elintézte őket (ami nagyon nem ártott, mert hiába vágtuk őket sorra, folyamatosan csak egyre többen lettek). Most hogy a füstölő meglett, elmehetünk végre bezárni a síkkaput.",
+"jegyzetek": "Altair szintlépés!"
 }
